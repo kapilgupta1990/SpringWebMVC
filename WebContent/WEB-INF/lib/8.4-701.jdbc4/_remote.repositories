@@ -1,0 +1,7 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Fri Mar 10 11:57:43 IST 2017
+postgresql-8.4-701.jdbc4.jar>=
+postgresql-8.4-701.jdbc4.jar>repo=
+postgresql-8.4-701.jdbc4.pom>central=
+postgresql-8.4-701.jdbc4.jar>central=
+postgresql-8.4-701.jdbc4.pom>repo=
